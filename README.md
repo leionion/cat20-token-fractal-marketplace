@@ -97,7 +97,7 @@ To create a CAT20 Token marketplace using Node.js with TypeScript on the Fractal
      ```
 
 4. **Handling Transactions:**
-   Implement functions in `src/utils/transactions.ts` to handle blockchain interactions, such as minting, transferring, and executing CAT20 transactions using the tracker service and CLI tool provided by the CAT20 protocol [citation:8].
+   Implement functions in `src/utils/transactions.ts` to handle blockchain interactions, such as minting, transferring, and executing CAT20 transactions using the tracker service and CLI tool provided by the CAT20 protocol.
    ```typescript
    import { execSync } from 'child_process';
 
