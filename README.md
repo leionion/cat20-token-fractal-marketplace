@@ -11,7 +11,7 @@ To create a CAT20 Token marketplace using Node.js with TypeScript on the Fractal
      ├── src/
      │   ├── server.ts
      │   ├── routes/
-     │   ├── controllers/
+     │   ├── controllers/ 
      │   ├── models/
      │   └── utils/
      ├── dist/
