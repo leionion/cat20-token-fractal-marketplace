@@ -6,7 +6,7 @@ To create a CAT20 Token marketplace using Node.js with TypeScript on the Fractal
 
 ### Project Structure 
    - Organize your project with the following structure:
-     ```plaintext 
+     ```plaintext  
      cat20-token-marketplace/
      ├── src/
      │   ├── server.ts
