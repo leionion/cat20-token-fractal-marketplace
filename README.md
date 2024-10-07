@@ -3,7 +3,7 @@
 This is the CAT20 Token marketplace on the Fractal Bitcoin Network, where users can list their CAT20 tokens, and buyers can purchase or place orders for CAT20 tokens. Transactions are executed automatically.  
 
 To create a CAT20 Token marketplace using Node.js with TypeScript on the Fractal Bitcoin Network, you'll need to focus on several core components: creating endpoints for listing and purchasing tokens, and handling transactions with the CAT protocol. Here's a structured guide for building this project.
-
+ 
 ### Project Structure 
    - Organize your project with the following structure:
      ```plaintext  
