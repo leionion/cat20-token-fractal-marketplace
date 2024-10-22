@@ -10,7 +10,7 @@ To create a CAT20 Token marketplace using Node.js with TypeScript on the Fractal
      cat20-token-marketplace/
      ├── src/
      │   ├── server.ts
-     │   ├── routes/
+     │   ├── routes/ 
      │   ├── controllers/ 
      │   ├── models/
      │   └── utils/
